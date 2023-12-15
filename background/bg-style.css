@@ -1,0 +1,11 @@
+/* this is the css of the background learning project */
+body{
+    width: 100%;
+    height: 100vh; /*vh means the part of the screen visible to the user*/
+    background-color: #F5E8C7;
+    background-image: url("./Technology\ Abstract\ Motherboard\ Illustration\ Background\ Stock\ Vector\ -\ Illustration\ of\ engineering\,\ board_\ 61940335.jpeg"), url("./_NASA\ Space\ Shuttle_\ Old\ Blue\ Grid\ Blueprint\ \(Vertical\ Version\)_\ Poster\ for\ Sale\ by\ BLUE\ GALAXY\ DESIGNS.jpeg");
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+    background-position: top left;
+    background-blend-mode: difference;
+}

@@ -1,0 +1,31 @@
+body{
+    display: grid;
+    place-items: centre;
+}
+
+
+h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.hero{
+    width: 500px;
+    background: antiquewhite;
+    padding-left: 50px;
+    border: 10px solid;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+}
+
+.hero2{
+    margin-top: 50px;
+    background: antiquewhite;
+    padding-left: 50px;
+    border: 10px solid;
+}

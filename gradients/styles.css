@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    display: grid;
+    place-items: centre;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.hero{
+    font-size: 20px;
+    background-color: aquamarine;
+    border: 10px solid;
+    padding: 50px;
+    margin: 20px;
+
+}

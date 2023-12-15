@@ -1,0 +1,17 @@
+/* this will import a font family from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&family=Poppins:wght@200;300&display=swap');
+
+@font-face {
+    font-family:"fredricka" ;
+    src: url(./FrederickatheGreat-Regular.ttf);
+}
+
+body{
+    background-color: azure;
+}
+h1{
+    
+    font-family: 'Playpen Sans', cursive;
+    font-family: "fredricka";
+
+}

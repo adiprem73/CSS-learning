@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    font-size: 40px;
+}
+/* rgba has an extra alpha value at last which defines the density of the color */
+h1:hover{
+    color: rgba(0, 255, 255, 0.5);
+}
+.para{
+    color: green;
+}
+
+#btn{
+    background-color: blueviolet;
+    color: aqua;
+}
+
+#btn:hover{
+    background-color: aqua;
+    color: blueviolet;
+}
+/* currentColor value is used to give the color of the one right above it */
+/* this is how you comment in css */

@@ -1,0 +1,40 @@
+1.css tag/element selector:
+
+selector{
+    property: value;
+}
+
+e.g
+h1{
+    color: red;
+    font-size: 32px;
+}
+
+
+2.class selector:
+<section>
+    <button class="btn">
+        Subscribe Thapa Technical
+    </button>
+</section>
+
+<!-- we use class to stylize that specific tag -->
+ .btn{
+    color: blue;
+    font-weight: bold;
+ }
+
+ 3.ID selector
+ #btn{
+    color: blue;
+    font-weight: bold;
+ }
+
+
+ pseudo-class
+ a:hover{
+    color: blue;
+    font-weight: bold;
+ }
+
+ 
